@@ -2,7 +2,8 @@
   "name": "projetopedidos",
   "scripts": {
     "dev": "nodemon src/server.js",
-    "queue": "nodemon src/Queue.js"
+    "queue": "nodemon src/Queue.js",
+    "start": "node src/server.js"
   },
   "version": "1.0.0",
   "main": "index.js",
